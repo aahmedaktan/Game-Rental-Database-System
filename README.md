@@ -1,9 +1,9 @@
-# Game Rental Database System
+# Veritabanı 
 
-![Dil](https://img.shields.io/badge/SQL-100%25-blue.svg)
+![SQL](https://img.shields.io/badge/SQL-100%25-blue.svg)
 
-Bu depo, veritabanı dosyalarını içerir ve SQL komutları ile yazılmıştır.
+Bu depo, SQL dosyalarını içerir ve veritabanı için kullanılır.
 
-## İçerik
+## Dosyalar
 
-- `game rental database system.sql`: Veritabanı tabloları.
+- `game rental database system.sql`: Veritabanı tablolarını ve başlangıç verilerini içeren SQL.
